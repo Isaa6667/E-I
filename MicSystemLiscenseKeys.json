@@ -1,5 +1,12 @@
 {
-  "LiscenseKeys": {
-    "1186746056": "c1fc4b1f-72e8-4771-b17e-32673a9e863b"
-  }
+  "licenses": [
+    {
+      "license_key": "4261e4f0-489a-449c-b22b-6a34042f591f",
+      "issued_to": 1186746056,
+      "product": "Mic System",
+      "issue_date": "2026-01-01",
+      "expiry_date": "2030-01-01",
+      "status": "active"
+    }
+  ]
 }
